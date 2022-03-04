@@ -1,3 +1,3 @@
 # urlshortner
  Django Practice 1
-Link : https://git.heroku.com/urlshortnermaligaya-
+Link : https://urlshortnermaligaya.herokuapp.com/
